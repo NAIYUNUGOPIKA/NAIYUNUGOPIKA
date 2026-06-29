@@ -1,6 +1,6 @@
 # Hi, I'm Naiyunu Gopika 👋
 
-🎓 B.Tech CSE @ Bharath Institute of Higher Education and Research, Chennai (2022–2026) | CGPA: 9.07
+🎓 B.Tech CSE @ Bharath Institute of Higher Education and Research, Chennai (2022–2026) | CGPA: 8.8
 📍 Sullurpeta, Andhra Pradesh, India
 📞 +91 93981 69862
 💡 Passionate about AI, Machine Learning & Full Stack Development
